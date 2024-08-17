@@ -1,16 +1,19 @@
+*What's New:*
 
-*New Features:*
-- *Music Player:* 
-Enjoy your favorite tunes directly within the app, now available in the Other Tools area.
+- *New Features:*
+  - Added
+*Delete Note*
+ and *Edit Note*
+ buttons for easier note management.
+  - Introduced three new tools:
+*Password Generator,
+ **String Encryption,
+ and **Chat with AI*.
 
-*Improvements:*
-- *Compass Accessibility:*
-All accessibility issues in the Compass tool have been resolved, ensuring a smoother experience for all users.
-- *Enhanced UI:*
-We've polished the user interface to make navigation more intuitive and visually appealing.
+- *Improvements:*
+  - Updated the *UI* for a more modern and user-friendly experience.
+  - Enhanced *accessibility* to ensure the app is usable by everyone.
+  - Fixed issues in some existing tools to improve overall functionality.
 
-*Bug Fixes:*
-- Various bugs have been squashed to improve overall app performance and stability.
-
-Some more features have also been added.
-Stay tuned for more exciting features!
+- *Bug Fixes:*
+  - Resolved various bugs for a smoother and more reliable app performance.
